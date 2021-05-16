@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><Cards>
+    <Card name="Wizard">
+        <Health>1</Health>
+        <Strength>12</Strength>
+        <Magic>24</Magic>
+    </Card>
+    <Card name="Knight">        
+        <Health>2</Health>
+        <Strength>13</Strength>
+        <Magic>23</Magic>      
+    </Card>
+    <Card name="Barbarian"> 
+        <Health>3</Health>
+        <Strength>14</Strength>
+        <Magic>22</Magic>
+    </Card>
+    <Card name="Goblin"> 
+        <Health>4</Health>
+        <Strength>15</Strength>
+        <Magic>21</Magic>
+    </Card>
+    <Card name="Minotaur"> 
+        <Health>5</Health>
+        <Strength>16</Strength>
+        <Magic>20</Magic>
+    </Card>
+    <Card name="Golem"> 
+        <Health>6</Health>
+        <Strength>17</Strength>
+        <Magic>19</Magic>
+    </Card>
+    <Card name="Harpy"> 
+        <Health>7</Health>
+        <Strength>18</Strength>
+        <Magic>18</Magic>
+    </Card>
+    <Card name="Ghoul"> 
+        <Health>8</Health>
+        <Strength>19</Strength>
+        <Magic>17</Magic>
+    </Card>
+    <Card name="Nekker"> 
+        <Health>9</Health>
+        <Strength>20</Strength>
+        <Magic>16</Magic>
+    </Card>
+    <Card name="Monster"> 
+        <Health>10</Health>
+        <Strength>21</Strength>
+        <Magic>15</Magic>
+    </Card>
+    <Card name="Wraith"> 
+        <Health>11</Health>
+        <Strength>22</Strength>
+        <Magic>14</Magic>
+    </Card>
+    <Card name="Katakan"> 
+        <Health>12</Health>
+        <Strength>23</Strength>
+        <Magic>13</Magic>
+    </Card>
+    <Card name="Devil"> 
+        <Health>13</Health>
+        <Strength>24</Strength>
+        <Magic>12</Magic>
+    </Card>
+    <Card name="Chorts"> 
+        <Health>14</Health>
+        <Strength>1</Strength>
+        <Magic>11</Magic>
+    </Card>
+    <Card name="Golyat"> 
+        <Health>15</Health>
+        <Strength>2</Strength>
+        <Magic>10</Magic>
+    </Card>
+    <Card name="Troll"> 
+        <Health>16</Health>
+        <Strength>3</Strength>
+        <Magic>9</Magic>
+    </Card>
+    <Card name="Stone Troll"> 
+        <Health>17</Health>
+        <Strength>4</Strength>
+        <Magic>8</Magic>
+    </Card>
+    <Card name="Ice Troll"> 
+        <Health>18</Health>
+        <Strength>5</Strength>
+        <Magic>7</Magic>
+    </Card>
+    <Card name="Orc Scout"> 
+        <Health>19</Health>
+        <Strength>6</Strength>
+        <Magic>6</Magic>
+    </Card>
+    <Card name="Magic Golem"> 
+        <Health>20</Health>
+        <Strength>7</Strength>
+        <Magic>5</Magic>
+    </Card>
+    <Card name="Skeleton"> 
+        <Health>21</Health>
+        <Strength>8</Strength>
+        <Magic>4</Magic>
+    </Card>
+    <Card name="Ice Dragon"> 
+        <Health>22</Health>
+        <Strength>9</Strength>
+        <Magic>3</Magic>
+    </Card>
+    <Card name="Fire Dragon"> 
+        <Health>23</Health>
+        <Strength>10</Strength>
+        <Magic>2</Magic>
+    </Card> 
+    <Card name="Wisp"> 
+        <Health>24</Health>
+        <Strength>11</Strength>
+        <Magic>1</Magic>
+    </Card>
+</Cards>
